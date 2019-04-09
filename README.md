@@ -16,8 +16,9 @@ RSS Feeds:
   <li>Test that allFeeds names are defined and contain content</li>
 
 The Menu:
-  <li>Test that Menu is hidden by default</li>
-  <li>Test that menu visibility when clicked</li>
+<li>Test that Menu is hidden by default</li>
+<li>Test that menu visibility when clicked</li>
+
 
 Initial Entries
   <li>Test minimally number of elements</li>
