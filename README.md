@@ -11,16 +11,16 @@ To run the application: download the github repo and then open index.html in the
 
 # What's inside
 RSS Feeds:
-  # Test that allFeeds are defined
-  # Test that allFeeds URLs are defined and contain content
-  # Test that allFeeds names are defined and contain content
+  <li>Test that allFeeds are defined</li>
+  <li>Test that allFeeds URLs are defined and contain content</li>
+  <li>Test that allFeeds names are defined and contain content</li>
 
 The Menu:
-  # Test that Menu is hidden by default
-  # Test that menu visibility when clicked
+  <li>Test that Menu is hidden by default</li>
+  <li>Test that menu visibility when clicked</li>
 
 Initial Entries
-  # Test minimally number of elements
+  <li>Test minimally number of elements</li>
 
 New Feed Selection
-  # Content changes or not
+  <li>Content changes or not</li>
